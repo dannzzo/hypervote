@@ -1,0 +1,63 @@
+{
+	"license_key" : "",
+	"username" : "",
+	"password" : "",
+	"proxy" : "",
+	"speed_value" : "",
+	"targets" : "",
+	"telegram_username" : "",
+	"is_telegram_chat_id" : "",
+	"telegram_delay" : "",
+	"is_telegram_active":true,
+	"is_telegram_error_active":true,
+	"is_telegram_stats_active":true,
+	"telegram_token" : null,
+	"fresh_stories_range" : 5,
+	"is_poll_vote_active" : true,
+	"filter" : 2,
+	"is_verified":false,
+	"is_auto_confirm":true,
+	"is_mention_active":true, 
+	"is_slider_points_active" : true,
+	"is_follower_ignore_active":false,
+	"is_following_ignore_active":false,
+	"is_same_user_ignore_active":false,
+	"is_requested_ignore_active":false,
+	"is_countdown_active" : true,
+	"is_questions_answers_active" : true,
+	"is_quiz_answers_active" : true,
+	"is_mass_story_vivew_active": true,
+	"questions_answers" : [
+		"hi",
+		"hello",
+		"are you there?",
+		"😍",
+		"🥰",
+		"🤩",
+		"😎",
+		"😄",
+		"😅",
+		"😂"
+	],
+	"questions_answers_ar":["salam"," essalamun aleykum"," marhabaan"],
+	"questions_answers_en":["hi"," hello"," whats up?"],
+	"questions_answers_de":["hallo"," hallo"," hallo"],
+	"questions_answers_fr":["salut"," salut"," salut"],
+	"questions_answers_tr":["merhaba"," naber?"],
+	"questions_answers_id":["hai"," hai"," hai"],
+	"questions_answers_in":["namaste"," namaste"],
+	"questions_answers_ru":["privet"," privet"," privet"],
+	"questions_answers_jp":["Kon'nichiwa"," Kon'nichiwa"],
+	"questions_answers_cn":["hei"," hei"],
+	"questions_answers_it":["ciao"," ciao"],
+	"questions_answers_es":["hola"," hola"],
+	"questions_answers_pt":["ola"," ola"],
+	"questions_answers_ir":["salam","salam","essalamunlaeykum"]
+	"slider_points_range" : [
+		75,
+		100
+	]
+
+
+
+}
